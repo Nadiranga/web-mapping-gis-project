@@ -6,6 +6,9 @@ A Flask-based GIS web application developed using Leaflet.js, Turf.js, and OpenW
 
 ![Dashboard](static/images/s1.png)
 ![Dashboard](static/images/s2.png)
+![Dashboard](static/images/s3.png)
+![Dashboard](static/images/s4.png)
+![Dashboard](static/images/s5.png)
 
 ## Features
 
