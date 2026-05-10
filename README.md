@@ -34,6 +34,9 @@ A Flask-based GIS web application developed using Leaflet.js, Turf.js, and OpenW
 7. K-Means clustering
 8. Spatial accessibility analysis
 
+Author
+Nadiranga Lakruwan
+
 ## Installation
 
 ```bash
