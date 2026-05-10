@@ -2,6 +2,10 @@
 
 A Flask-based GIS web application developed using Leaflet.js, Turf.js, and OpenWeatherMap API.
 
+## Screenshots
+
+![Dashboard](static/images/s1.png)
+
 ## Features
 
 - Interactive web map
