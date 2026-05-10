@@ -1,0 +1,6 @@
+id="89ytf1"
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
